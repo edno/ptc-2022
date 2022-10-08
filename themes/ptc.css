@@ -1,0 +1,47 @@
+/* @theme ptc */
+
+@import 'default';
+
+@import url("https://use.typekit.net/its5qvk.css");
+
+:root {
+    --heading-strong-color: var(--primary-color);
+    --header-footer-font: var(--secondary-font);
+    --header-footer-color: #b7b7cf;
+    --primary-color: #343457;
+    --secondary-color: #ff3162;
+    --primary-font: ubuntu, sans-serif !important;
+    --secondary-font: quicksand, ubuntu, sans-serif;
+}
+
+::marker {
+    color: var(--header-footer-color);
+}
+
+
+section {
+    font-family: var(--primary-font);
+    color: var(--primary-color);
+}
+
+section::after {
+    color: var(--header-footer-color);
+    font-family: var(--header-footer-font);
+    font-size: 18px;
+}
+
+h1, h2, h3 {
+    color: var(--secondary-color) !important;
+    font-family: var(--secondary-font);
+}
+
+strong {
+    font-family: var(--secondary-font);
+    font-weight: bold;
+    color: var(--secondary-color)
+}
+
+header, footer {
+    font-family: var(--header-footer-font);
+    color: var(--header-footer-color);
+}
