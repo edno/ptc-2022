@@ -52,6 +52,8 @@ ci/cd
 
 feature toggle
 
+discuss roadmap
+
 ---
 
 ## Améliorer la communication interne
@@ -70,14 +72,24 @@ Alignment
 
 ---
 
-## Un rôle spécifique ?
+## Un métier spécifique ?
 
 Oui, si vos équipes ou vos utilisateurs souffrent.
 
 Non, si ce n'est que pour valider le travail des développeurs.
 
+### Coach qualité est un rôle qui peut être partagé ==ou== dédié.
+
 ---
 
-## Un rôle pragmatique ?
+## Où commencer ?
 
-Complètement
+Travail en équipe vs individualisme
+
+Goals partage
+
+Roadmap a jour
+
+Livraison fréquentes de petite taille
+
+Éviter les retrospective sans lendemain
