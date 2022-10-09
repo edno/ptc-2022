@@ -82,12 +82,18 @@ section {
 
 ---
 <!--
-_footer: ""
+_footer: "Grégory Heitz | [https://github.com/edno/ptc-2022](https://github.com/edno/ptc-2022) | 2022"
 -->
 <style scoped>
-section {
-    text-align: center
+footer, section {
+    text-align: center;
+}
+footer {
+    width: 100%;
+}
+h1 {
+    font-size: 5rem;
 }
 </style>
 
-# <!-- fit --> m e r c i **.**<br>🫶
+# m e r c i **.**<br>🫶

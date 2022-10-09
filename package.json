@@ -6,7 +6,7 @@
     "scripts": {
         "start": "marp -ps --html --pdf --input-dir ./slides --output ./public",
         "html": "marp slides/__deck.md --output public/index.html",
-        "pdf": "marp slides/__deck.md --output public/ptc_2022.pdf --pdf",
+        "pdf": "marp slides/__deck.md --output public/ptc_2022.pdf --pdf --html",
         "build": "npm run html && npm run pdf"
     },
     "dependencies": {

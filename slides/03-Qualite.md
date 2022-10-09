@@ -23,16 +23,3 @@ Self service
 Support
 Look nice
 
-
-
----
-<style scoped>
-section {
-    text-align: center
-}
-</style>
-
-# Startup<br/>**+**<br/>Quality
-
-### where things gets quickly emotional
-

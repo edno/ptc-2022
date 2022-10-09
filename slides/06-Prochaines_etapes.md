@@ -15,6 +15,6 @@ Coaching, Experimenting, Evaluating, Learning, Communicating
 
 La qualité commence à J-0
 
-\* Testing is not quality, but it is just a mean to an end
+Testing is not quality, but it is just a mean to an end
 
 ---

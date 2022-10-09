@@ -4,6 +4,16 @@
 
 @import url("https://use.typekit.net/its5qvk.css");
 
+@font-face {
+    font-family: "Virgil";
+    src: url("https://excalidraw.com/Virgil.woff2");
+}
+
+@font-face {
+    font-family: "Cascadia";
+    src: url("https://excalidraw.com/Cascadia.woff2");
+}
+
 :root {
     --heading-strong-color: var(--primary-color);
     --header-footer-font: var(--secondary-font);
@@ -39,7 +49,7 @@ strong {
     font-family: var(--secondary-font);
     font-weight: bold;
     color: var(--secondary-color)
-}
+}0
 
 header, footer {
     font-family: var(--header-footer-font);
