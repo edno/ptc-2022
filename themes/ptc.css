@@ -26,6 +26,10 @@
     --secondary-font: quicksand, ubuntu, sans-serif;
 }
 
+:root.invert {
+    --primary-color: #fff;
+}
+
 ::marker {
     color: var(--header-footer-color);
 }

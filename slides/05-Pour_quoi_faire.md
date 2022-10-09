@@ -1,4 +1,33 @@
+---
+marp: true
+---
+
 # Pour quoi faire **?**
+
+---
+
+Qualité pragmatique
+
+---
+
+Culture qualité
+
+---
+
+Modern testing
+Agile practices
+
+---
+
+Communication
+
+---
+
+Context-driven
+
+---
+
+UX
 
 ---
 
@@ -17,3 +46,9 @@ Accelerate the delivery ● Mitigate bottlenecks ● Build a more mature Quality
 Quality Engineering? not only
 
 Product Quality too
+
+Build ownership
+
+---
+
+Speed up feedback

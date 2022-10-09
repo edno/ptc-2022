@@ -14,7 +14,8 @@ module.exports = {
         headings: true
     },
     bespoke: {
-        progress: true
+        progress: true,
+        transition: true
     },
     engine: ({ marp }) => (
         marp

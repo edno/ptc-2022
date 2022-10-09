@@ -1,10 +1,12 @@
 ---
 marp: true
 header: "PTC 2022 | Qualité en start-up pourquoi faire ?"
+transition: melt
 ---
 <!--
 _header: ""
 _footer: ""
+_class: invert
 -->
 
 # <!-- fit --> **Qualité en start-up pourquoi faire ?**<br/>Qualité en start-up pour quoi faire ?
@@ -23,6 +25,7 @@ _footer: ""
 ---
 <!--
 _footer: ""
+_class: invert
 footer: "1 | Introduction"
 -->
 
@@ -31,6 +34,7 @@ footer: "1 | Introduction"
 ---
 <!--
 _footer: ""
+_class: invert
 footer: "2 | Startup"
 -->
 
@@ -39,6 +43,7 @@ footer: "2 | Startup"
 ---
 <!--
 _footer: ""
+_class: invert
 footer: "3 | Qualité"
 -->
 
@@ -47,6 +52,7 @@ footer: "3 | Qualité"
 ---
 <!--
 _footer: ""
+_class: invert
 footer: "4 | Pourquoi faire ?"
 -->
 
@@ -55,6 +61,7 @@ footer: "4 | Pourquoi faire ?"
 ---
 <!--
 _footer: ""
+_class: invert
 footer: "5 | Pour quoi faire ?"
 -->
 
@@ -63,7 +70,8 @@ footer: "5 | Pour quoi faire ?"
 ---
 <!--
 _footer: ""
-footer: "6 | Prochaine étapes ?"
+_class: invert
+footer: "6 | Prochaine étapes"
 -->
 
 !!!include(06-Prochaines_etapes.md)!!!
@@ -86,6 +94,7 @@ h1 {
 ---
 <!--
 _footer: "Grégory Heitz | [https://github.com/edno/ptc-2022](https://github.com/edno/ptc-2022) | 2022"
+_class: invert
 -->
 <style scoped>
 footer, section {

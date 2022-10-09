@@ -17,9 +17,18 @@ pour
 
 ---
 
-Fit for purpose
-Easy to use
-Self service
-Support
-Look nice
+Produit adapté aux utilisateurs
 
+---
+
+Adoption rapide et simple
+
+---
+
+Utilisation en self service
+
+---
+
+Rendu visuel attractif
+
+---

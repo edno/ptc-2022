@@ -4,7 +4,8 @@
     "description": "Qualité en start-up pourquoi faire ?",
     "author": "Grégory Heitz",
     "scripts": {
-        "start": "marp -psw ./slides",
+        "start": "marp -ps ./slides",
+        "debug": "npm start || chokidar \"slides/**/*.{md,png,svg}\" -c \"touch slides/index.md\"",
         "html": "marp slides/index.md --output public/index.html",
         "pdf": "marp slides/index.md --output public/ptc_2022.pdf --pdf",
         "build": "npm run html && npm run pdf"
@@ -12,6 +13,7 @@
     "dependencies": {
         "@marp-team/marp-cli": "^2.2.0",
         "@marp-team/marp-core": "^3.3.3",
+        "chokidar-cli": "^3.0.0",
         "markdown-it-include": "^2.0.0",
         "markdown-it-mark": "^3.0.1"
     }
