@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # Startup
 
 ---
@@ -19,7 +15,7 @@ pour
 
 ---
 
-![bg center contain](./images/04/crossing_the_chasm_fr.png)
+![bg center contain](./images/02/crossing_the_chasm_fr.png)
 
 <!--
 Les adopteurs précoces sont des fondus de technologie recherchant un changement radical,
@@ -59,7 +55,7 @@ on a un nombre d'employés restreint
 
 on a des budgets plus serrés pour les opérations
 
-### on doit avoir **plusieurs casquettes**.
+### on doit avoir **plusieurs chapeaux**.
 
 ---
 

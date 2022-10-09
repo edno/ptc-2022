@@ -2,6 +2,7 @@
 marp: true
 header: "PTC 2022 | Qualité en start-up pourquoi faire ?"
 transition: melt
+theme: ptc
 ---
 <!--
 _header: ""
@@ -9,7 +10,7 @@ _footer: ""
 _class: invert
 -->
 
-# <!-- fit --> **Qualité en start-up pourquoi faire ?**<br/>Qualité en start-up pour quoi faire ?
+# <!-- fit --> **Qualité en startup pourquoi faire ?**<br/>Qualité en startup pour quoi faire ?
 
 ## **Grégory Heitz**
 
@@ -85,7 +86,7 @@ section {
     text-align: center
 }
 h1 {
-    font-size: 5rem;
+    font-size: 4rem;
 }
 </style>
 
@@ -93,7 +94,7 @@ h1 {
 
 ---
 <!--
-_footer: "Grégory Heitz | [https://github.com/edno/ptc-2022](https://github.com/edno/ptc-2022) | 2022"
+_footer: "Grégory Heitz | [https://github.com/edno/ptc-2022](https://github.com/edno/ptc-2022) | 15 novembre 2022"
 _class: invert
 -->
 <style scoped>
@@ -104,8 +105,12 @@ footer {
     width: 100%;
 }
 h1 {
-    font-size: 5rem;
+    font-size: 4rem;
 }
 </style>
 
 # m e r c i **.**<br>🫶
+
+![width:24px](./images/icons/linkedin-icon.svg) /in/gheitz
+![width:24px](./images/icons/twitter-icon.svg) @gregoryheitz
+![width:24px](./images/icons/github-icon-inverted.png) edno

@@ -3,4 +3,7 @@
     "cSpell.words": [
         "marp"
     ],
+    "markdown.marp.themes": [
+        "./themes/ptc.css"
+      ]
 }

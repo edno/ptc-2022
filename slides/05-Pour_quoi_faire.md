@@ -1,37 +1,66 @@
----
-marp: true
----
-
 # Pour quoi faire **?**
 
 ---
+<style scoped>
+section {
+    text-align: center
+}
+ul {
+    list-style-type: none
+}
+</style>
 
-Qualité pragmatique
+## **TL**;**DR**<br>🔻<br>créer une ~~équipe~~ culture qualité
 
----
-
-Culture qualité
-
----
-
-Modern testing
-Agile practices
-
----
-
-Communication
-
----
-
-Context-driven
+* accélérer la mise en production
+* atténuer les goulots d'étranglement
+* reduce feedback cycle
 
 ---
 
-UX
+## Échouer au plus tôt
+
+en introduisant des revues de design
+
+en partageant les roadmaps entre équipes
+
+quick implementation cycle
+
+small features
 
 ---
 
-Early exploratory testing from design stage
+## Améliorer la réception des utilisateurs
+
+en partageant les nouvelles fonctionnalités avec les équipes support
+
+user interview
+
+localisation
+
+ui consistency
+
+---
+
+## Éviter le goulot d'étranglement de la mise en production
+
+early exploratory testing from design stage
+
+test automation
+
+ci/cd
+
+feature toggle
+
+---
+
+## Améliorer la communication interne
+
+human backlog
+
+dependency management
+
+team goals instead of individual tasks
 
 Liaison between support and product
 
@@ -39,16 +68,16 @@ Help balancing risks
 
 Alignment
 
-Accelerate the delivery ● Mitigate bottlenecks ● Build a more mature Quality culture
+---
+
+## Un rôle spécifique ?
+
+Oui, si vos équipes ou vos utilisateurs souffrent.
+
+Non, si ce n'est que pour valider le travail des développeurs.
 
 ---
 
-Quality Engineering? not only
+## Un rôle pragmatique ?
 
-Product Quality too
-
-Build ownership
-
----
-
-Speed up feedback
+Complètement

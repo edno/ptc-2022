@@ -30,5 +30,3 @@ Utilisation en self service
 ---
 
 Rendu visuel attractif
-
----
