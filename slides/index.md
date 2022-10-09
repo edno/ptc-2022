@@ -6,9 +6,15 @@ theme: ptc
 ---
 <!--
 _header: ""
-_footer: ""
+_footer: "![width:24px](./images/icons/cc_icon_white.png) ![width:24px](./images/icons/zero_white.png)"
 _class: invert
 -->
+<style scoped>
+footer {
+    text-align: center;
+    width: 100%;
+}
+</style>
 
 # <!-- fit --> **Qualité en startup pourquoi faire ?**<br/>Qualité en startup pour quoi faire ?
 
