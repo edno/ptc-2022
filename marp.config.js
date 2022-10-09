@@ -16,5 +16,9 @@ module.exports = {
     bespoke: {
         progress: true
     },
-    engine: ({ marp }) => marp.use(require('markdown-it-include'), "./slides").use(require('markdown-it-mark')),
+    engine: ({ marp }) => (
+        marp
+        .use(require('markdown-it-include'), "./slides")
+        .use(require('markdown-it-mark'))
+    ),
 }

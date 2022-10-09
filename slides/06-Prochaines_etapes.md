@@ -7,7 +7,7 @@ Improve communication between squads
 Increase testing across roles
 
 ---
-# Conclusion
+## Conclusion
 
 Rien de neuf 
 
