@@ -1,21 +1,19 @@
----
-marp: true
-header: "PTC 2022 | Qualité en start-up pourquoi faire ?"
----
-<!--
-_footer: ""
-footer: "3 | Qualité"
--->
-
 # Qualité
 
----
 
-## **Valeur** donnée
-par et pour
-## les **utilisateurs**
-basée sur
-## le **contentement** de leurs besoins
+
+---
+<style scoped>
+section {
+    text-align: center
+}
+</style>
+
+## la **valeur** perçue 👀
+par
+## les **utilisateurs** 👩‍👧‍👦
+pour
+## le **contentement** de leurs besoins 🎭️
 
 ---
 
@@ -25,39 +23,16 @@ Self service
 Support
 Look nice
 
----
-# Startup
-### ==&==
-# Quality
+
 
 ---
+<style scoped>
+section {
+    text-align: center
+}
+</style>
 
-Where things gets quickly emotional
+# Startup<br/>**+**<br/>Quality
 
----
+### where things gets quickly emotional
 
-# Pourquoi faire **?**
-
-<!--
-_footer: ""
-footer: "4 | Pourquoi faire ?"
--->
-
----
-
-Increase velocity
-Build ownership
-Fast feedback
-User voice
-Keep technical debt low
-Prevent data quality debt
-
----
-
-Culture qualité
-
-Modern testing
-Agile practices
-Communication
-Context-driven
-UX

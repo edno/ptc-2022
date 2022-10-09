@@ -1,21 +1,3 @@
----
-marp: true
-header: "PTC 2022 | Qualité en start-up pourquoi faire ?"
----
-<!--
-_header: ""
-_footer: ""
-_paginate: false
--->
-
-# **Qualité en start-up pourquoi faire ?**<br/>Qualité en start-up pour quoi faire ?
-
-## **Grégory Heitz**
-
-### ParisTestConf **2022**
-
----
-
 # Sommaire
 
 1) Introduction

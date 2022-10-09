@@ -1,13 +1,3 @@
----
-marp: true
-header: "PTC 2022 | Qualité en start-up pourquoi faire ?"
----
-<!--
-_footer: ""
-footer: "6 | Prochaine étapes ?"
--->
-
-
 # Prochaine étapes
 
 Start automated smoke testing

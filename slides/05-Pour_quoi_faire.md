@@ -1,12 +1,3 @@
----
-marp: true
-header: "PTC 2022 | Qualité en start-up pourquoi faire ?"
----
-<!--
-_footer: ""
-footer: "5 | Pour quoi faire ?"
--->
-
 # Pour quoi faire **?**
 
 ---

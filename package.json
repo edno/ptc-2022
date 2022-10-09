@@ -4,20 +4,15 @@
     "description": "Qualité en start-up pourquoi faire ?",
     "author": "Grégory Heitz",
     "scripts": {
-     "start": "marp -ps --html --pdf ."
+        "start": "marp -ps --html --pdf --input-dir ./slides --output ./public",
+        "html": "marp slides/__deck.md --output public/index.html",
+        "pdf": "marp slides/__deck.md --output public/ptc_2022.pdf --pdf",
+        "build": "npm run html && npm run pdf"
     },
-  "dependencies": {
-    "@marp-team/marp-cli": "^2.2.0",
-    "@marp-team/marp-core": "^3.3.3"
-  },
-  "marp": {
-    "title": "PTC 2022 | Qualité en start-up pourquoi faire ?",
-    "description": "Start-up rime avec livraison rapide, flexibilité, super agile, croissance rapide... Que veut dire qualité dans ce contexte ? Et que peut apporter une culture qualité au sein d'une start-up ?",
-    "author": "Grégory Heitz",
-    "inputDir": "./slides",
-    "output": "./public",
-    "themeSet": "./themes",
-    "theme": "ptc",
-    "size": "16:9"
-  }
+    "dependencies": {
+        "@marp-team/marp-cli": "^2.2.0",
+        "@marp-team/marp-core": "^3.3.3",
+        "markdown-it-include": "^2.0.0",
+        "markdown-it-mark": "^3.0.1"
+    }
 }
