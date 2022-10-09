@@ -76,6 +76,9 @@ _footer: ""
 section {
     text-align: center
 }
+h1 {
+    font-size: 5rem;
+}
 </style>
 
 !!!include(07-Questions.md)!!!

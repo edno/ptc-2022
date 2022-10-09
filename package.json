@@ -4,9 +4,9 @@
     "description": "Qualité en start-up pourquoi faire ?",
     "author": "Grégory Heitz",
     "scripts": {
-        "start": "marp -ps --html --pdf --input-dir ./slides --output ./public",
-        "html": "marp slides/__deck.md --output public/index.html",
-        "pdf": "marp slides/__deck.md --output public/ptc_2022.pdf --pdf --html",
+        "start": "marp -psw ./slides",
+        "html": "marp slides/index.md --output public/index.html",
+        "pdf": "marp slides/index.md --output public/ptc_2022.pdf --pdf",
         "build": "npm run html && npm run pdf"
     },
     "dependencies": {

@@ -4,6 +4,8 @@
 
 @import url("https://use.typekit.net/its5qvk.css");
 
+@import url('data:text/css,.bespoke-progress-bar { background: lightgray !important; }');
+
 @font-face {
     font-family: "Virgil";
     src: url("https://excalidraw.com/Virgil.woff2");
@@ -49,7 +51,7 @@ strong {
     font-family: var(--secondary-font);
     font-weight: bold;
     color: var(--secondary-color)
-}0
+}
 
 header, footer {
     font-family: var(--header-footer-font);

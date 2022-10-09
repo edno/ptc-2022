@@ -7,5 +7,14 @@ module.exports = {
     size: "16:9",
     allowLocalFiles: true,
     lang: "fr",
+    html: true,
+    pdfNotes: true,
+    pdfOutlines : {
+        pages: false,
+        headings: true
+    },
+    bespoke: {
+        progress: true
+    },
     engine: ({ marp }) => marp.use(require('markdown-it-include'), "./slides").use(require('markdown-it-mark')),
 }
