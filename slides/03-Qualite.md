@@ -25,7 +25,7 @@ Adoption rapide et simple
 
 ---
 
-Utilisation en self service
+Utilisation en libre-service
 
 ---
 

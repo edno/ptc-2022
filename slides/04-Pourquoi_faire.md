@@ -52,9 +52,18 @@ observer les tendances de vos utilisateurs (fréquence d'utilisation, temps pass
 
 ## Garder la ==dette== technique sous contrôle
 
+en donner la priorités aux bugs
+
+en revisitant les décisions techniques
+
 en surveillant les zones défaillantes
 
-en revisitant les decisions techniques
+### pour réduire les coûts de maintenance.
 
-###   pour réduire les coûts de maintenance.
-
+<!--
+corriger les bugs existants avant d'ajouter des nouvelles fonctionnalités
+meme les plus mineurs, sinon ils vont s'accumuler... on peut corriger en ne pas corrigeant
+n'ajoutez pas de nouvelles fonctionnalités sans revoir les décisions techniques,
+tous les problèmes ne sont pas toujours visibles, pensez a garder un œil sur les resources, les logs d'erreurs,
+et l'absence de log ou de consommation de resources
+-->

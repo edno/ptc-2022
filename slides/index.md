@@ -81,7 +81,7 @@ _class: invert
 footer: "6 | Prochaine étapes"
 -->
 
-!!!include(06-Prochaines_etapes.md)!!!
+!!!include(06-Conclusion.md)!!!
 
 ---
 <!--

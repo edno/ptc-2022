@@ -15,18 +15,6 @@ pour
 
 ---
 
-![bg center contain](./images/02/crossing_the_chasm_fr.png)
-
-<!--
-Les adopteurs précoces sont des fondus de technologie recherchant un changement radical,
-alors que la majorité avancée veut une « amélioration de la productivité ».
-Le second groupe veut un produit fini,
-alors que le premier accepte les imperfections et
-possède les compétences techniques pour voir immédiatement les avantages.
--->
-
----
-
 ## Mises en production **rapides**
 
 mais pas toujours rigoureuses
@@ -67,3 +55,19 @@ une forte compétition
 
 ### on doit être **flexible** sur les priorités
 
+---
+
+![bg center contain](./images/02/crossing_the_chasm_fr.png)
+
+<!--
+Les adopteurs précoces sont des fondus de technologie recherchant un changement radical,
+alors que la majorité avancée veut une « amélioration de la productivité ».
+Le second groupe veut un produit fini,
+alors que le premier accepte les imperfections et
+possède les compétences techniques pour voir immédiatement les avantages.
+
+Le challenge d'une startup est de passer cette faille
+c'est avant tout un challenge qualité
+-->
+
+---
