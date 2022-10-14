@@ -6,4 +6,4 @@ Start-up rime avec livraison rapide, flexibilité, super agile, croissance rapid
 
 This is a Marp presentation, use `npm i && npm start` to run it.
 
-A PDF and HTML versions can be found in the `public` folder.
+PDF and HTML versions can be found in the `public` folder.
