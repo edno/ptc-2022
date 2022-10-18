@@ -21,7 +21,7 @@ ul {
 ## Échouer au plus tôt
 
 <!--
-La qualițé comme facteur de réduction des coûts,
+La qualité comme facteur de réduction des coûts,
 rien de plus coûteux que le temps passé
 par le support client et les équipes de dev
 pour résoudre les problèmes rencontrés par les utilisateurs

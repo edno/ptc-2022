@@ -8,9 +8,13 @@ section {
 </style>
 
 ## fournir une solution **innovante** 💡
+
 avec
+
 ## une haute **valeur** ajoutée 💰️
+
 pour
+
 ## un marché à croissance **rapide** 🚀
 
 ---
@@ -21,7 +25,7 @@ mais pas toujours rigoureuses
 
 on va vite, mais on rate vite !
 
-### **support utilisateur** devient la vraie valeur ajoutée.
+### **support utilisateur** devient la vraie valeur ajoutée
 
 ---
 
@@ -33,7 +37,7 @@ les utilisateurs découvrent leurs besoins
 
 on prend des décision rapides, mais pas toujours les bonnes
 
-### on doit pouvoir **changer le produit rapidement**.
+### on doit pouvoir **changer le produit rapidement**
 
 ---
 
@@ -43,7 +47,7 @@ on a un nombre d'employés restreint
 
 on a des budgets plus serrés pour les opérations
 
-### on doit avoir **plusieurs chapeaux**.
+### on doit avoir **plusieurs chapeaux**
 
 ---
 

@@ -1,6 +1,7 @@
 # Introduction
 
 ---
+
 ## Speaker
 
 Débutant averti en **Qualité** & **Ingénierie** logicielle depuis **2002**.

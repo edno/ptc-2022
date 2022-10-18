@@ -1,6 +1,5 @@
 # Pourquoi faire **?**
 
-
 ---
 <style scoped>
 section {
@@ -24,7 +23,7 @@ en livrant des correctifs le jour même
 
 en livrant des améliorations fréquemment
 
-### pour augmenter la satisfaction des utilisateurs.
+### pour augmenter la satisfaction des utilisateurs
 
 <!--
 les équipes doivent avoir une autonomie pour prendre la décision
@@ -39,7 +38,7 @@ en écoutant les avis utilisateurs
 
 en gardant la solution facile d'accès
 
-### pour plus grande rétention des utilisateurs.
+### pour plus grande rétention des utilisateurs
 
 <!--
 lire,écouter les retours fait sur les stores, TrustPilot
@@ -58,7 +57,7 @@ en revisitant les décisions techniques
 
 en surveillant les zones défaillantes
 
-### pour réduire les coûts de maintenance.
+### pour réduire les coûts de maintenance
 
 <!--
 corriger les bugs existants avant d'ajouter des nouvelles fonctionnalités
