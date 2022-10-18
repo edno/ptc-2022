@@ -69,5 +69,3 @@ possède les compétences techniques pour voir immédiatement les avantages.
 Le challenge d'une startup est de passer cette faille
 c'est avant tout un challenge qualité
 -->
-
----
