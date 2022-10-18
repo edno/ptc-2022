@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Qualité en start-up pourquoi faire ?",
     "author": "Grégory Heitz",
+    "license": "CC0-1.0",
     "scripts": {
         "start": "marp -ps ./slides",
         "html": "marp slides/index.md --output public/index.html",
