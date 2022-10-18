@@ -1,9 +1,16 @@
 {
     "cSpell.language": "en,fr",
     "cSpell.words": [
-        "marp"
+        "Heitz",
+        "marp",
+        "Qualite",
+        "roadmaps"
     ],
     "markdown.marp.themes": [
         "./themes/ptc.css"
-      ]
+    ],
+    "markdownlint.config": {
+        "no-inline-html": false,
+        "first-line-h1": false
+    }
 }

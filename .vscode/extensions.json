@@ -2,6 +2,7 @@
     "recommendations": [
         "streetsidesoftware.code-spell-checker",
         "streetsidesoftware.code-spell-checker-french",
-        "marp-team.marp-vscode"
+        "marp-team.marp-vscode",
+        "DavidAnson.vscode-markdownlint"
     ]
 }
