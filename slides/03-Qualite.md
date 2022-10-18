@@ -41,10 +41,10 @@ résolution des problèmes sans support externe
 
 ---
 
-## Rendu visuel **attractif**
+## Rendu **visuel** attractif
 
 identité visuelle consistante
 
 charge cognitive réduite
 
-## le produit est visuellement cohérent
+## le produit est **cohérent**
