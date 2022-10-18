@@ -1,7 +1,5 @@
 # Qualité
 
-
-
 ---
 <style scoped>
 section {
@@ -10,23 +8,43 @@ section {
 </style>
 
 ## la **valeur** perçue 👀
+
 par
+
 ## les **utilisateurs** 👩‍👧‍👦
+
 pour
-## le **contentement** de leurs besoins 🎭️
+
+## la **satisfactions** de leurs besoins 🎭️
 
 ---
 
-Produit adapté aux utilisateurs
+## Produit **adapté** aux utilisateurs
+
+répond a un besoin des utilisateurs
+
+interface adaptée à la plateforme
+
+## le problème **résolu** est facilement identifiable
 
 ---
 
-Adoption rapide et simple
+## **Adoption** rapide et simple
+
+installation simple
+
+apprentissage intuitif
+
+résolution des problèmes sans support externe
+
+## le produit s'utilise **sans support**
 
 ---
 
-Utilisation en libre-service
+## Rendu visuel **attractif**
 
----
+identité visuelle consistante
 
-Rendu visuel attractif
+charge cognitive réduite
+
+## le produit est visuellement cohérent
