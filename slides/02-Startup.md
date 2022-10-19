@@ -1,4 +1,4 @@
-# Startup
+    # Startup
 
 ---
 <style scoped>
@@ -62,6 +62,21 @@ une forte compétition
 ---
 
 ![bg center contain](./images/02/crossing_the_chasm_fr.png)
+
+<style scoped>
+blockquote {
+    position: absolute;
+    right: -120px;
+    text-align: center;
+    border: none;
+    transform: rotate(90deg);
+    color: var(--header-footer-color);
+    font-family: var(--header-footer-font);
+    font-size: 0.4em;
+}
+</style>
+
+> *Crossing the Chasm* • Geoffrey Moore • 1991
 
 <!--
 Les adopteurs précoces sont des fondus de technologie recherchant un changement radical,

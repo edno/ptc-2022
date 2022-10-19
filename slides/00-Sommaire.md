@@ -5,5 +5,5 @@
 3) Qualité
 4) Pourquoi faire?
 5) Pour quoi faire?
-6) Prochaines étapes
+6) Conclusion
 7) Questions
