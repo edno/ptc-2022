@@ -2,7 +2,8 @@
 
 1) Introduction
 2) Startup
-3) Pourquoi faire?
-4) Pour quoi faire?
-5) Prochaines étapes
-6) Questions
+3) Startup
+4) Pourquoi faire?
+5) Pour quoi faire?
+6) Prochaines étapes
+7) Questions
