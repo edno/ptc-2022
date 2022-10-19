@@ -29,7 +29,7 @@ on va vite, mais on rate vite !
 
 ---
 
-## **Découverte** du marché en continue
+## **Découverte** du marché en continu
 
 on n'a pas d'historique sur le produit
 
@@ -53,7 +53,7 @@ on a des budgets plus serrés pour les opérations
 
 ## Cible **mouvante**
 
-on a produit qui change vite
+on a un produit qui change vite
 
 une forte compétition
 

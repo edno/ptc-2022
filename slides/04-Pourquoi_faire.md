@@ -38,7 +38,7 @@ en écoutant les avis utilisateurs
 
 en gardant la solution facile d'accès
 
-### pour plus grande rétention des utilisateurs
+### pour plus une grande rétention des utilisateurs
 
 <!--
 lire,écouter les retours fait sur les stores, TrustPilot

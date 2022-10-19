@@ -40,7 +40,7 @@ Privilégiez la communication directe (synchrone ou asynchrone) plutôt que l'in
 Est-ce encore nécessaire d'insister sur le fait de travailler à taille humaine?
 -->
 
-* Évitez les retrospective sans lendemain
+* Évitez les retrospectives sans lendemain
 <!--
 Utilisez les rétrospectives non pas comme un outil pour célébrer
 ou féliciter du travail bien fait
@@ -91,7 +91,7 @@ On va faire plus de test d'intégration automatisés pour:
 - réduire les tests manuels
 -->
 
-* Améliorer la communication inter-équipe:
+* Améliorer la communication inter-équipe
 <!--
 On veut communiquer plus efficacement entre équipes:
 - réduire les échanges JIRA

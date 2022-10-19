@@ -21,5 +21,5 @@ Fournisseur de **solutions logicielles** pour **recharger les voitures électriq
 * Live depuis **mi-2021**
 * 1 application **mobile native** (iOS & Android)
 * 1 application **web**
-* 1 **service** web publique
+* 1 **service** web public
 * 🇩🇰 🇳🇴 🇸🇪 🇬🇧 🇮🇪 🇩🇪 🇦🇹 🇫🇷
