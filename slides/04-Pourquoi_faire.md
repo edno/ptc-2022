@@ -23,7 +23,7 @@ en livrant des correctifs le jour même
 
 en livrant des améliorations fréquemment
 
-### pour augmenter la **satisfaction**des utilisateurs
+### pour augmenter la **satisfaction** des utilisateurs
 
 <!--
 les équipes doivent avoir une autonomie pour prendre la décision
