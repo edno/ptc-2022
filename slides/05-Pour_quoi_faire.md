@@ -18,7 +18,7 @@ ul {
 
 ---
 
-## Échouer au plus tôt
+## **Échouer** au plus tôt
 
 <!--
 La qualité comme facteur de réduction des coûts,
@@ -51,7 +51,7 @@ Petits incréments au plus tôt:
 
 ---
 
-## Améliorer la réception des utilisateurs
+## Améliorer la **réception** des utilisateurs
 
 <!--
 La qualité comme facteur d'amélioration des revenus,
@@ -78,7 +78,7 @@ Utiliser les revue de design (UX & solution technique) pour:
 - collecter le feedback des équipes supports
 -->
 
-* test de localisation
+* tests de localisation
 <!--
 [raccourcir la boucle de feedback]
 Tester la localisation pour:
@@ -105,7 +105,7 @@ Utiliser messages d'erreur explicites - trop souvent traités en 2nde classe - p
 
 ---
 
-## Réduire le travail des équipes
+## Réduire le travail des **équipes**
 
 * automatisations des tâches
 <!--
@@ -138,14 +138,13 @@ Utiliser les tests exploratoire
 
 ---
 
-## Améliorer la communication interne
+## Améliorer la **communication** interne
 
 * backlog à taille humaine
 
 * minimiser les dépendances
 
 * objectifs d'équipes
-
 
 * communiquer avec les équipes support
 <!--

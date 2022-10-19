@@ -4,11 +4,11 @@
 
 ## Un métier spécifique ?
 
-Oui, si vos équipes ou vos utilisateurs souffrent d'un manque de qualité.
+Oui, si vos équipes ou vos utilisateurs souffrent d'un ==manque de qualité==.
 
-Non, si ce n'est que pour valider le travail des développeurs.
+Non, si ce n'est que pour ==valider le travail== des développeurs.
 
-### Coach qualité est un rôle qui peut être partagé ==ou== dédié
+### Coach qualité est un rôle qui peut être partagé **ou** dédié
 
 <!--
 Si vos équipes traitent le role de testeurs comme
@@ -103,10 +103,10 @@ On veut communiquer plus efficacement entre équipes:
 
 ## Le mot de la fin
 
-* Avoir une culture qualité en startup c'est possible et facile.
+* Avoir une culture qualité en startup c'est ==possible et facile==.
 
-* Rien de neuf que l'on soit en startup ou grande entreprise.
+* ==Rien de neuf== que l'on soit en startup ou grande entreprise.
 
-* La qualité commence au premier jour de votre entreprise !
+* La qualité commence au ==premier jour== de votre entreprise !
 
-* Le testeur n'est pas la vraie source de la qualité.
+* Le testeur n'est pas la ==vraie source== de la qualité.

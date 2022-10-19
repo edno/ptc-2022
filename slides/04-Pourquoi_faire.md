@@ -17,13 +17,13 @@ ul {
 
 ---
 
-## Augmenter la ==vitesse== de mise en production
+## Augmenter la **vitesse** de mise en production
 
 en livrant des correctifs le jour même
 
 en livrant des améliorations fréquemment
 
-### pour augmenter la satisfaction des utilisateurs
+### pour augmenter la **satisfaction**des utilisateurs
 
 <!--
 les équipes doivent avoir une autonomie pour prendre la décision
@@ -32,13 +32,13 @@ de mettre en production
 
 ---
 
-## Améliorer l'==expérience== des utilisateurs
+## Améliorer l'**expérience** des utilisateurs
 
 en écoutant les avis utilisateurs
 
 en gardant la solution facile d'accès
 
-### pour plus une grande rétention des utilisateurs
+### pour plus une grande **rétention** des utilisateurs
 
 <!--
 lire,écouter les retours fait sur les stores, TrustPilot
@@ -49,7 +49,7 @@ observer les tendances de vos utilisateurs (fréquence d'utilisation, temps pass
 
 ---
 
-## Garder la ==dette== technique sous contrôle
+## Garder la **dette** technique sous contrôle
 
 en donner la priorités aux bugs
 
@@ -57,7 +57,7 @@ en revisitant les décisions techniques
 
 en surveillant les zones défaillantes
 
-### pour réduire les coûts de maintenance
+### pour réduire les **coûts** de maintenance
 
 <!--
 corriger les bugs existants avant d'ajouter des nouvelles fonctionnalités
