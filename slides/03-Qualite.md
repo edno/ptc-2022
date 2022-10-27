@@ -37,7 +37,7 @@ apprentissage intuitif
 
 résolution des problèmes sans support externe
 
-## le produit s'utilise **sans support**
+## le produit s'utilise **en confiance**
 
 ---
 
