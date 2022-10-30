@@ -8,12 +8,14 @@
         "start": "marp -ps ./slides",
         "html": "marp slides/index.md --output public/index.html",
         "pdf": "marp slides/index.md --output public/ptc_2022.pdf --pdf",
-        "build": "npm run html && npm run pdf"
+        "clean": "rimraf ./public && mkdir ./public && cp -R ./slides/{fonts,images} ./public",
+        "build": "npm run clean && npm run html & npm run pdf"
     },
     "dependencies": {
         "@marp-team/marp-cli": "^2.2.0",
         "@marp-team/marp-core": "^3.3.3",
         "markdown-it-include": "^2.0.0",
-        "markdown-it-mark": "^3.0.1"
+        "markdown-it-mark": "^3.0.1",
+        "rimraf": "^3.0.2"
     }
 }

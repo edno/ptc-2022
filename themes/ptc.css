@@ -2,19 +2,23 @@
 
 @import 'default';
 
-@import url("https://use.typekit.net/its5qvk.css");
-
 @import url('data:text/css,.bespoke-progress-bar { background: lightgray !important; }');
 
 @font-face {
-    font-family: "Inconstant Regular";
-    src: url('/fonts/inconstant/InconstantVF.woff') format('woff');
+    font-family: "Inconstant";
+    src: url('./fonts/inconstant/InconstantVF.woff') format('woff');
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "QuickSand";
+    src: url('./fonts/quicksand/Quicksand-VariableFont_wght.ttf') format('truetype');
     font-display: fallback;
 }
 
 :root {
-    --primary-font: quicksand, ubuntu, sans-serif !important;
-    --secondary-font: "Inconstant Regular", ubuntu, sans-serif;
+    --primary-font: "QuickSand", ubuntu, sans-serif !important;
+    --secondary-font: "Inconstant", ubuntu, sans-serif;
     --heading-strong-color: var(--primary-color);
     --header-footer-font: var(--primary-font);
     --header-footer-color: #b7b7cf;
@@ -29,7 +33,6 @@
 ::marker {
     color: var(--header-footer-color);
 }
-
 
 section {
     font-family: var(--primary-font);
