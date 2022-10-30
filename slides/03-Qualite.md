@@ -15,7 +15,7 @@ par
 
 pour
 
-## la **satisfactions** de leurs besoins 🎭️
+## la **satisfaction** de leurs besoins 🎭️
 
 ---
 
