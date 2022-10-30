@@ -34,11 +34,11 @@ de mettre en production
 
 ## Améliorer l'**expérience** des utilisateurs
 
-en écoutant les avis utilisateurs
+en écoutant les avis des utilisateurs
 
 en gardant la solution facile d'accès
 
-### pour plus une grande **rétention** des utilisateurs
+### pour plus une grande **rétention**
 
 <!--
 lire,écouter les retours fait sur les stores, TrustPilot

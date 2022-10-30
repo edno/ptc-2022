@@ -45,9 +45,9 @@ on prend des décision rapides, mais pas toujours les bonnes
 
 on a un nombre d'employés restreint
 
-on a des budgets plus serrés pour les opérations
+on a des budgets serrés pour les opérations
 
-### on doit avoir **plusieurs chapeaux**
+### on doit avoir **plusieurs casquettes**
 
 ---
 

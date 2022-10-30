@@ -51,7 +51,7 @@ Petits incréments au plus tôt:
 
 ---
 
-## Améliorer la **réception** des utilisateurs
+## Améliorer la **réception** par les utilisateurs
 
 <!--
 La qualité comme facteur d'amélioration des revenus,
@@ -107,7 +107,7 @@ Utiliser messages d'erreur explicites - trop souvent traités en 2nde classe - p
 
 ## Réduire le travail des **équipes**
 
-* automatisations des tâches
+* automatisation des tâches
 <!--
 [atténuer les goulots d'étranglement]
 Automatiser des tâches pour libérer le temps de vos équipes, par exemples:
@@ -144,7 +144,7 @@ Utiliser les tests exploratoire
 
 * minimiser les dépendances
 
-* objectifs d'équipes
+* objectifs d'équipe
 
 * communiquer avec les équipes support
 <!--

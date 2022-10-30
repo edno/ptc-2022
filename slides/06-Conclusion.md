@@ -59,7 +59,7 @@ Si vous pensez à embaucher un testeur, demandez vous pourquoi?
 
 ---
 
-## Prochaine étapes
+## Prochaines étapes
 
 <!--
 Ce sont nos prochaines étapes dans ma division
