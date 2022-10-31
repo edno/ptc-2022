@@ -14,6 +14,12 @@ footer {
     text-align: center;
     width: 100%;
 }
+h1, h1 strong {
+    font-family: var(--secondary-font) !important;
+}
+h2, h3, strong {
+    font-family: var(--primary-font) !important;
+}
 </style>
 
 # <!-- fit --> **Qualité en startup pourquoi faire ?**<br/>Qualité en startup pour quoi faire ?
