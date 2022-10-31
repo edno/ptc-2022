@@ -5,8 +5,8 @@
 @import url('data:text/css,.bespoke-progress-bar { background: lightgray !important; }');
 
 @font-face {
-    font-family: "Inconstant";
-    src: url('./fonts/inconstant/InconstantVF.woff') format('woff');
+    font-family: "LexieReadable";
+    src: url('./fonts/lexia_readable/LexieReadable-Regular.ttf') format('truetype');
     font-display: fallback;
 }
 
@@ -18,7 +18,7 @@
 
 :root {
     --primary-font: "QuickSand", ubuntu, sans-serif !important;
-    --secondary-font: "Inconstant", ubuntu, sans-serif;
+    --secondary-font: "LexieReadable", ubuntu, sans-serif;
     --heading-strong-color: var(--primary-color);
     --header-footer-font: var(--primary-font);
     --header-footer-color: #b7b7cf;
