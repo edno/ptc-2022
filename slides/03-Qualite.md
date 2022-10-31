@@ -21,7 +21,7 @@ pour
 
 ## Produit **adapté** aux utilisateurs
 
-répond a un besoin des utilisateurs
+répond à un besoin des utilisateurs
 
 interface adaptée à la plateforme
 
