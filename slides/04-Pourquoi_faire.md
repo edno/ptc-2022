@@ -51,7 +51,7 @@ observer les tendances de vos utilisateurs (fréquence d'utilisation, temps pass
 
 ## Garder la **dette** technique sous contrôle
 
-en donner la priorités aux bugs
+en donner la priorité aux bugs
 
 en revisitant les décisions techniques
 
