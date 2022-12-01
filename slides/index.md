@@ -124,5 +124,4 @@ h1 {
 # m e r c i **.**<br>🫶
 
 ![width:24px](./images/icons/linkedin-icon.svg) /in/gheitz
-![width:24px](./images/icons/twitter-icon.svg) @gregoryheitz
 ![width:24px](./images/icons/github-icon-inverted.png) edno
